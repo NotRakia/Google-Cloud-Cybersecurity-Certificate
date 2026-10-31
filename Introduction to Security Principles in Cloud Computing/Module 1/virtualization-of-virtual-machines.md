@@ -1,7 +1,7 @@
 # Virtualization and Virtual Machines
 
 ## 1. Virtualization
-
+- Virtualization is the foundation of cloud computing.
 - Virtualization is technology that creates a virtual version of physical infrastructure, such as servers, storage, and networks.
 - This technology uses virtual machines, or VMs, to simulate a physical computer.
 - VMs contain their own operating systems, like Windows and Linux, and use only a portion of the underlying computer’s compute power.
